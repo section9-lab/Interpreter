@@ -13,10 +13,10 @@
     </a>
     <a href="https://github.com/infiniflow/ragflow/releases/latest">
         <img src="https://img.shields.io/github/v/release/infiniflow/ragflow?color=blue&label=Latest%20Release" alt="Latest Release">
-    </a> 
+    </a>  -->
     <a href="https://github.com/section9-lab/Interpreter/blob/main/LICENSE">
         <img height="21" src="https://img.shields.io/badge/License-Apache--2.0-ffffff?labelColor=d4eaf7&color=2e6cc4" alt="license">
-    </a> -->
+    </a>
     <a href="https://deepwiki.com/section9-lab/Interpreter">
         <img alt="Ask DeepWiki" src="https://deepwiki.com/badge.svg">
     </a>
